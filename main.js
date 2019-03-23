@@ -106,7 +106,14 @@ d- Decrement the number of "unread" books
 // 6. Connect jQuery library to the HTML file
 // 7. Write javascript function when user type text inside the input text and click the "Add" 
 //     button it will add the text to the ul element.
-
+//================================================================================
+/*                              Q5                                             */
+//================================================================================
+// Theoretical questions.
+// 1- In your own words,Why do we use Closures ?
+// 2- In OOP, what does "this" refer to ?
+// 3- What is jQuery?
+// 4- what is the diffrence between Closure's methods and The OOP's methods?
 
 
                               //  Good Luck :))
